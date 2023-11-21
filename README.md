@@ -38,7 +38,7 @@
   
 ## Deployment on 000webhost
 
-You can access the Chat with Colleagues application by following this link: [Chat with Colleagues on 000webhost](https://20bcd7171.000webhostapp.com/).
+You can access the Chat with Colleagues application by following this link: [ChatConnect on 000webhost](https://20bcd7171.000webhostapp.com/).
 
 ### Accessibility
 Chat with Colleagues is hosted on 000webhost, ensuring easy accessibility for all authorized users. They can access the application from any device with an internet connection.
