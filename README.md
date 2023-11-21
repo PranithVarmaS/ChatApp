@@ -1,8 +1,8 @@
-# REAL TIME CHAT APPLICATION
+#CHAT APPLICATION
 
 ## Description
 
-**Chat with Colleagues** is an intuitive and user-friendly chat application designed to enhance internal communication within your organization. It offers a range of features to streamline team collaboration and keep everyone connected, regardless of their physical location.
+**ChatConnect** is an intuitive and user-friendly chat application designed to enhance internal communication within your organization. It offers a range of features to streamline team collaboration and keep everyone connected, regardless of their physical location.
 
 ## Key Features
 
